@@ -1,5 +1,3 @@
 # Lista 
-vagrant
-.vagrant
-./vagrant
+.vagrant/
 ./git
